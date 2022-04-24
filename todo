@@ -1,0 +1,27 @@
+-1.Create a npm project install dependencies:- Express,nodemon,moment @done
+moment-: A JavaScript date library for parsing, validating, manipulating, and formatting dates.
+
+pressssss ctrl+d to mark it done
+-2.create all file and folders like public js html img etc. @done
+
+-3.Setup express SERVER  server.js @done
+
+-4.Create frontend part using html CSS,using bootswatch pulse theme @done
+
+-5.Post commnt logic,append to DOM,install socket.io,emit event from client @done
+
+-6.Listen and broadcaast event from server @done
+
+-7.Listen for incoming event on client @done
+
+-8.Append  comment animation @done
+
+-9.show "TYPING......" Animation ..IN REAL TIME @done
+
+-10.connect with db:install mongoose,create model
+
+-11.Create route and db logic
+
+-12.Save a comment in db on post comment
+
+
