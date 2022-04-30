@@ -52,7 +52,10 @@
 
 6.Same with the user2
 ![Screenshot (23)](https://user-images.githubusercontent.com/62016867/166115729-bd25c971-7b25-4247-9331-9861f6bdcfcd.png)
-###This can onlyhappen with the help of socket.io
+
+### This can onlyhappen with the help of socket.io
+
+![Screenshot (28)](https://user-images.githubusercontent.com/62016867/166116154-6385c96f-2148-4133-bdb2-6829ec41c7f7.png)
 
 7.In that time when user1 post his/her comment..other registered user can se that comment with realtime change(With the help of SOCKET.IO)
 
